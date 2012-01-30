@@ -1,3 +1,3 @@
-Code kata StringCalculatorJava.zip
-it's a very simple example to practice TDD and OOP. You can found inside a TODO file with the specifications.
+Code kata StringCalculator
+it's a very simple example written in Java to practice TDD and OOP. You can found inside a TODO file with the specifications.
 
